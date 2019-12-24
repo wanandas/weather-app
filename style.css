@@ -37,7 +37,7 @@ header {
   padding: 10px;
   border-radius: 30px 30px 0 0;
   text-align: center;
-  background: linear-gradient(to right, #43c6ac, #f8ffae);
+  background: rgb(112, 210, 255);
 }
 
 header input {
